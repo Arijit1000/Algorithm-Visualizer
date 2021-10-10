@@ -1,4 +1,4 @@
-# SEARCHING-ALGORITHMS-VIUALIZER-PART :star_struck: :open_file_folder: :computer:
+# SEARCHING-ALGORITHMS-VISUALIZER-PART :star_struck: :open_file_folder: :computer:
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
