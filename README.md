@@ -11,7 +11,7 @@
 *It is a part of functionality 1 of my project.* Algorithm Visualizer is an online platform that visualizes algorithms from as per user choice. Algorithm-visualizer is a web app written in React. It contains UI components and interprets commands into visualizations. Here are two types of algorithms, searching and sorting. Here user will get a tutorial for using this web application. Here we can set the size, speed, name of algorithm them it will show how the algorithm actually works. 
 </div>
 
-## FEATURES IN SEARCHING VIUSALIZER :point_down:
+## FEATURES IN SEARCHING VISUALIZER :point_down:
 
 1. Algorithms<br>
  - Breadth-First Search<br>
